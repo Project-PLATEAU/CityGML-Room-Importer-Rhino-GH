@@ -13,11 +13,12 @@
 * 本レポジトリの一式をダウンロードし、任意のディレクトリに置く
 * Rhinoceros、Grasshopper を開き、ファイルを Grasshopper に読み込む
 * CityGML ファイルを Rhinoceros に取り込む
-* Grasshopper に読み込んだスクリプトを使い、CityGML ファイルと接続：詳細の実行手順は Project PLATEAU にて公開されている「3D 都市モデル整備のための BIM 活用マニュアル（第3版） 資料2第2章ケース 1」を参照
+* Grasshopper に読み込んだスクリプトを使い、CityGML ファイルと接続
+※詳細の実行手順は[「3D 都市モデル整備のための BIM 活用マニュアル（第3版）」](https://www.mlit.go.jp/plateau/libraries/handbooks/)資料2第2章ケース1を参照してください。
 
 ## 開発について
 
-* 本ソフトウェアは、2023 年にデジタル庁で開発
+* 本ファイルは、2022年度に国土交通省が策定した「3D都市モデル標準製品仕様書 第3.0版」に定義された建築物モデル（LOD4）に基づき作成されたCityGML2.0形式の建築物モデルLOD4に含まれるroomクラスの属性情報（名称）及び形状をRhinocerosに書き出すために作成されたGrasshopper用ファイルです。
 
 ## License
 
